@@ -1,0 +1,12 @@
+GR-REV-E	pattern
+AT2G24765-Binding-motif	Motif
+AT2G48100-binding-motif	Motif
+sequence-specific DNA binding transcription factor activity	GO
+pentose-phosphate shunt	GO
+"regulation of transcription, DNA-templated"	GO
+chloroplast thylakoid lumen	GO
+ethylene-activated signaling pathway	GO
+NAD(P)H dehydrogenase complex (plastoquinone)	GO
+response to endoplasmic reticulum stress	GO
+chloroplast thylakoid membrane	GO
+response to auxin	GO

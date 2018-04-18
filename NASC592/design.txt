@@ -1,0 +1,13 @@
+sample	treatment	MOCK	DEXvMOCK	CHXvMOCK	CHXDEXvMOCK
+592-01	Mock-induced_Rep1	1	0	0	0
+592-02	DEX-induced_Rep1	1	1	0	0
+592-03	CHX-treated_Rep1	1	0	1	0
+592-04	CHX+DEX-induced_Rep1	1	0	0	1
+592-05	Mock-induced_Rep2	1	0	0	0
+592-06	DEX-induced_Rep2	1	1	0	0
+592-07	CHX-treated_Rep2	1	0	1	0
+592-08	CHX+DEX-induced_Rep2	1	0	0	1
+592-09	Mock-induced_Rep3	1	0	1	0
+592-10	DEX-induced_Rep30	1	1	1	0
+592-11	CHX-treated_Rep3	1	0	0	0
+592-12	CHX+DEX-induced_Rep3	1	0	0	1

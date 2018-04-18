@@ -1,0 +1,6 @@
+Gene Descriptor	Description	GR-REV-high-etaphat.txt
+GO:0003700	sequence-specific DNA binding transcription factor activity	-3.0094282911465378
+GO:0005634	nucleus	-3.5701546185159385
+GO:0009943	adaxial/abaxial axis specification	-4.422647133991633
+GO:0010358	leaf shaping	-4.277191821491138
+GO:0045892	"negative regulation of transcription, DNA-templated"	-5.250092641870888

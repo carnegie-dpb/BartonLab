@@ -1,0 +1,10 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+input-0.bam	GTN01	0	1.53661e+07	1.68704e+07	0.918086	1
+input-2.bam	GTN01	1	1.59299e+07	1.68704e+07	1.02996	1
+input-3.bam	GTN01	2	1.75085e+07	1.68704e+07	1.07438	1
+input-4.bam	GTN30	0	1.88533e+07	1.68704e+07	1.09687	1
+input-5.bam	GTN30	1	1.5618e+07	1.68704e+07	0.848825	1
+input-6.bam	GTN30	2	1.78414e+07	1.68704e+07	1.05272	1
+input-7.bam	GTN60	0	1.66459e+07	1.68704e+07	0.999589	1
+input-8.bam	GTN60	1	1.65049e+07	1.68704e+07	0.926067	1
+input-1.bam	GTN60	2	1.83776e+07	1.68704e+07	1.12556	1

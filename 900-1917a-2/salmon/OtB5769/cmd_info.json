@@ -1,0 +1,9 @@
+{
+    "salmon_version": "0.8.1",
+    "index": "/home/shokin/genomes/Arabidopsis/Salmon",
+    "libType": "IU",
+    "mates1": "reads/index25_1_R1.fastq.gz",
+    "mates2": "reads/index25_1_R2.fastq.gz",
+    "output": "salmon.index25",
+    "auxDir": "aux_info"
+}

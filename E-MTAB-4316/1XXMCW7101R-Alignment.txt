@@ -1,0 +1,383 @@
+BLASTN 2.7.1+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+RID: 1XXMCW7101R
+
+
+Database: Nucleotide collection (nt)
+           45,444,492 sequences; 163,509,600,667 total letters
+Query= Os02g0530100 Similar to C4-dicarboxylate transporter/malic acid
+transport protein. (Os02t0530100-01);Copper chaperone homolog CCH.
+(Os02t0530100-02)
+
+Length=14016
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+AM888351.1  Transformation Vector pICH13688                        220     2e-54
+
+ALIGNMENTS
+>AM888351.1 Transformation Vector pICH13688
+Length=16039
+
+ Score = 220 bits (119),  Expect = 2e-54
+ Identities = 191/226 (85%), Gaps = 3/226 (1%)
+ Strand=Plus/Minus
+
+Query  8249  TACTCCCTCCTTCCCTAAATGTTTGAGGTCATTGACTTTTTTAAACATGTTTGACCGTTC  8308
+             |||||||||| |  |||||| |||||   ||||||||||||   |||| ||| |||||||
+Sbjct  1511  TACTCCCTCCGTTTCTAAATATTTGATACCATTGACTTTTTAGCACATATTTAACCGTTC  1452
+
+Query  8309  ATCTTATTTAAAAACTTTTGTGAAACGTGTAAAACTATATGTATACCTAAAAGTATATTT  8368
+              || |||| ||||||||||||||||  ||||||||||||||||||| || ||||||||||
+Sbjct  1451  GTCATATTCAAAAACTTTTGTGAAATATGTAAAACTATATGTATACATATAAGTATATTT  1392
+
+Query  8369  AACAATAAATCAAATGATAGGAAAAGAATTAATAGTTACTTAAATTTTTTGAA-TAAGAC  8427
+             |||||||||||||||||||| |||| |||||||| ||||||||||||||| || ||||| 
+Sbjct  1391  AACAATAAATCAAATGATAGAAAAATAATTAATAATTACTTAAATTTTTTTAAATAAGAT  1332
+
+Query  8428  GAACGGTCAAtttt-tttaaaaaaaG-TCAACGGCGCCAAATATTT  8471
+             ||||  ||||   | ||||||||||  |||| |||| |||||||||
+Sbjct  1331  GAACATTCAAACATATTTAAAAAAAAATCAATGGCGTCAAATATTT  1286
+
+
+Query= Os02g0798200 Zinc finger, RING/FYVE/PHD-type domain containing
+protein. (Os02t0798200-01)
+
+Length=1749
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+AM888351.1  Transformation Vector pICH13688                        143     5e-31
+
+ALIGNMENTS
+>AM888351.1 Transformation Vector pICH13688
+Length=16039
+
+ Score = 143 bits (77),  Expect = 5e-31
+ Identities = 101/113 (89%), Gaps = 0/113 (0%)
+ Strand=Plus/Minus
+
+Query  754   ATACTCCCTCCGTTTTTAAATGTTTGACACCGTTAACTTTTTAGCACATATTTAACCGTT  813
+             ||||||||||||||| ||||| ||||| ||| || |||||||||||||||||||||||||
+Sbjct  1512  ATACTCCCTCCGTTTCTAAATATTTGATACCATTGACTTTTTAGCACATATTTAACCGTT  1453
+
+Query  814   CGTCttatttaaaaaattttatgaaatatgtaaaactatatacatacataaaa  866
+             |||| |||| ||||| |||| ||||||||||||||||||||  ||||||| ||
+Sbjct  1452  CGTCATATTCAAAAACTTTTGTGAAATATGTAAAACTATATGTATACATATAA  1400
+
+
+Query= Os09g0451400 ACC oxidase, Ethylene biosynthesis (Os09t0451400-01)
+
+Length=1590
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+NM_100380.4  Arabidopsis thaliana ethylene-forming enzyme (EFE...  161     1e-36
+AY150384.1  Arabidopsis thaliana 1-aminocyclopropane-1-carboxy...  161     1e-36
+AF370155.1  Arabidopsis thaliana putative 1-aminocyclopropane-...  161     1e-36
+X66719.1  A.thaliana EAT1 mRNA for ethylene forming enzyme         156     6e-35
+BX817035.1  Arabidopsis thaliana Full-length cDNA Complete seq...  154     2e-34
+CP002684.1  Arabidopsis thaliana chromosome 1 sequence             128     1e-26
+AC005322.2  Arabidopsis thaliana chromosome 1 BAC T7A14 sequen...  128     1e-26
+
+ALIGNMENTS
+>NM_100380.4 Arabidopsis thaliana ethylene-forming enzyme (EFE), mRNA
+Length=1529
+
+ Score = 161 bits (87),  Expect = 1e-36
+ Identities = 362/496 (73%), Gaps = 13/496 (3%)
+ Strand=Plus/Plus
+
+Query  605   CCC-GACCTCGACGACGACTACAG-GCGCCTCATGAAGCGCTTCGCGGCGGAGCTGGAGA  662
+             ||| || ||||||||||| |||||  ||  | |||||   |||||| |   || | ||||
+Sbjct  624   CCCTGATCTCGACGACGATTACAGAACG-TTAATGAAAGACTTCGCCGGAAAGATAGAGA  682
+
+Query  663   CGCTGGCGGAGCGGCTACTGGACCTGCTCTGCGAGAACCTCGGCCTCGAGAAGGGCTACC  722
+              | || |||||  ||||||||| ||||| |||||||| |||||  | |||||||| ||  
+Sbjct  683   AGTTGTCGGAGGAGCTACTGGATCTGCTGTGCGAGAATCTCGGTTTAGAGAAGGGTTATT  742
+
+Query  723   TCACCAAGG--CCTTCCGTGGCCCCGCGGGCGCACCCACCTTCGGCACCAAGGTCAGCAG  780
+             | |  ||||    || || ||   ||     | ||| || || || ||||| ||||||| 
+Sbjct  743   TAAAAAAGGTGTTTTACG-GG--TCG-AAAAG-ACCGACTTTTGGAACCAAAGTCAGCAA  797
+
+Query  781   CTACCCGCCGTGCCCGCGCCCCGACCTCGTCGAGGGCCTCCGCGCCCACACCGACGCCGG  840
+              || || || || ||    || ||||| ||| |||| ||||| |||||||||||||||||
+Sbjct  798   TTATCCACCTTGTCCTAATCCGGACCTAGTCAAGGGTCTCCGAGCCCACACCGACGCCGG  857
+
+Query  841   CGGCATCATCCTGCTCTTCCAGGACGACCGCGTCGGTGGCCTCCAGCTGCTCAAGGACGG  900
+             |||||||||||| |||||||| ||||||   ||| |||| || ||||| || || |||||
+Sbjct  858   CGGCATCATCCTCCTCTTCCAAGACGACAAAGTCAGTGGACTTCAGCTTCTTAAAGACGG  917
+
+Query  901   CGAGTGGGTGGACGTGCCGCCCATGCGCCACTCCATCGTCGTCAACCTCGGCGACCAGCT  960
+             ||||||||| || || || ||  |    || || |||||||| || |||||||| || ||
+Sbjct  918   CGAGTGGGTCGATGTTCCTCCGGTTAAGCATTCAATCGTCGTTAATCTCGGCGATCAACT  977
+
+Query  961   GGAGGTGATCACCAACGGCAGGTACAAGAGCGTGATCCACCGGGTGGTGGCGCAGACCGA  1020
+              |||||||| ||||| || | ||||||||| |||   ||  | ||| |  | ||||| ||
+Sbjct  978   TGAGGTGATAACCAATGGGAAGTACAAGAGTGTGGAACATAGAGTGCTATCTCAGACAGA  1037
+
+Query  1021  CGGC-AAC-AGG-ATGTCCATCGCGTCGTTCTACAACCCTGGCAGCGACGCCGTGATCTC  1077
+             |||  ||  | | ||||| ||||| || ||||| || || || |||||| | || || | 
+Sbjct  1038  CGGAGAAGGAAGAATGTCGATCGCATCATTCTATAATCCGGGAAGCGACTCTGTTATTTT  1097
+
+Query  1078  CCCTGCGCCGGCGCTG  1093
+              || ||||||| ||||
+Sbjct  1098  TCCGGCGCCGGAGCTG  1113
+
+
+>AY150384.1 Arabidopsis thaliana 1-aminocyclopropane-1-carboxylate oxidase 
+(At1g05010) mRNA, complete cds
+Length=1003
+
+ Score = 161 bits (87),  Expect = 1e-36
+ Identities = 362/496 (73%), Gaps = 13/496 (3%)
+ Strand=Plus/Plus
+
+Query  605   CCC-GACCTCGACGACGACTACAG-GCGCCTCATGAAGCGCTTCGCGGCGGAGCTGGAGA  662
+             ||| || ||||||||||| |||||  ||  | |||||   |||||| |   || | ||||
+Sbjct  309   CCCTGATCTCGACGACGATTACAGAACG-TTAATGAAAGACTTCGCCGGAAAGATAGAGA  367
+
+Query  663   CGCTGGCGGAGCGGCTACTGGACCTGCTCTGCGAGAACCTCGGCCTCGAGAAGGGCTACC  722
+              | || |||||  ||||||||| ||||| |||||||| |||||  | |||||||| ||  
+Sbjct  368   AGTTGTCGGAGGAGCTACTGGATCTGCTGTGCGAGAATCTCGGTTTAGAGAAGGGTTATT  427
+
+Query  723   TCACCAAGG--CCTTCCGTGGCCCCGCGGGCGCACCCACCTTCGGCACCAAGGTCAGCAG  780
+             | |  ||||    || || ||   ||     | ||| || || || ||||| ||||||| 
+Sbjct  428   TAAAAAAGGTGTTTTACG-GG--TCG-AAAAG-ACCGACTTTTGGAACCAAAGTCAGCAA  482
+
+Query  781   CTACCCGCCGTGCCCGCGCCCCGACCTCGTCGAGGGCCTCCGCGCCCACACCGACGCCGG  840
+              || || || || ||    || ||||| ||| |||| ||||| |||||||||||||||||
+Sbjct  483   TTATCCACCTTGTCCTAATCCGGACCTAGTCAAGGGTCTCCGAGCCCACACCGACGCCGG  542
+
+Query  841   CGGCATCATCCTGCTCTTCCAGGACGACCGCGTCGGTGGCCTCCAGCTGCTCAAGGACGG  900
+             |||||||||||| |||||||| ||||||   ||| |||| || ||||| || || |||||
+Sbjct  543   CGGCATCATCCTCCTCTTCCAAGACGACAAAGTCAGTGGACTTCAGCTTCTTAAAGACGG  602
+
+Query  901   CGAGTGGGTGGACGTGCCGCCCATGCGCCACTCCATCGTCGTCAACCTCGGCGACCAGCT  960
+             ||||||||| || || || ||  |    || || |||||||| || |||||||| || ||
+Sbjct  603   CGAGTGGGTCGATGTTCCTCCGGTTAAGCATTCAATCGTCGTTAATCTCGGCGATCAACT  662
+
+Query  961   GGAGGTGATCACCAACGGCAGGTACAAGAGCGTGATCCACCGGGTGGTGGCGCAGACCGA  1020
+              |||||||| ||||| || | ||||||||| |||   ||  | ||| |  | ||||| ||
+Sbjct  663   TGAGGTGATAACCAATGGGAAGTACAAGAGTGTGGAACATAGAGTGCTATCTCAGACAGA  722
+
+Query  1021  CGGC-AAC-AGG-ATGTCCATCGCGTCGTTCTACAACCCTGGCAGCGACGCCGTGATCTC  1077
+             |||  ||  | | ||||| ||||| || ||||| || || || |||||| | || || | 
+Sbjct  723   CGGAGAAGGAAGAATGTCGATCGCATCATTCTATAATCCGGGAAGCGACTCTGTTATTTT  782
+
+Query  1078  CCCTGCGCCGGCGCTG  1093
+              || ||||||| ||||
+Sbjct  783   TCCGGCGCCGGAGCTG  798
+
+
+>AF370155.1 Arabidopsis thaliana putative 1-aminocyclopropane-1-carboxylate 
+oxidase (At1g05010) mRNA, complete cds
+Length=1221
+
+ Score = 161 bits (87),  Expect = 1e-36
+ Identities = 362/496 (73%), Gaps = 13/496 (3%)
+ Strand=Plus/Plus
+
+Query  605   CCC-GACCTCGACGACGACTACAG-GCGCCTCATGAAGCGCTTCGCGGCGGAGCTGGAGA  662
+             ||| || ||||||||||| |||||  ||  | |||||   |||||| |   || | ||||
+Sbjct  380   CCCTGATCTCGACGACGATTACAGAACG-TTAATGAAAGACTTCGCCGGAAAGATAGAGA  438
+
+Query  663   CGCTGGCGGAGCGGCTACTGGACCTGCTCTGCGAGAACCTCGGCCTCGAGAAGGGCTACC  722
+              | || |||||  ||||||||| ||||| |||||||| |||||  | |||||||| ||  
+Sbjct  439   AGTTGTCGGAGGAGCTACTGGATCTGCTGTGCGAGAATCTCGGTTTAGAGAAGGGTTATT  498
+
+Query  723   TCACCAAGG--CCTTCCGTGGCCCCGCGGGCGCACCCACCTTCGGCACCAAGGTCAGCAG  780
+             | |  ||||    || || ||   ||     | ||| || || || ||||| ||||||| 
+Sbjct  499   TAAAAAAGGTGTTTTACG-GG--TCG-AAAAG-ACCGACTTTTGGAACCAAAGTCAGCAA  553
+
+Query  781   CTACCCGCCGTGCCCGCGCCCCGACCTCGTCGAGGGCCTCCGCGCCCACACCGACGCCGG  840
+              || || || || ||    || ||||| ||| |||| ||||| |||||||||||||||||
+Sbjct  554   TTATCCACCTTGTCCTAATCCGGACCTAGTCAAGGGTCTCCGAGCCCACACCGACGCCGG  613
+
+Query  841   CGGCATCATCCTGCTCTTCCAGGACGACCGCGTCGGTGGCCTCCAGCTGCTCAAGGACGG  900
+             |||||||||||| |||||||| ||||||   ||| |||| || ||||| || || |||||
+Sbjct  614   CGGCATCATCCTCCTCTTCCAAGACGACAAAGTCAGTGGACTTCAGCTTCTTAAAGACGG  673
+
+Query  901   CGAGTGGGTGGACGTGCCGCCCATGCGCCACTCCATCGTCGTCAACCTCGGCGACCAGCT  960
+             ||||||||| || || || ||  |    || || |||||||| || |||||||| || ||
+Sbjct  674   CGAGTGGGTCGATGTTCCTCCGGTTAAGCATTCAATCGTCGTTAATCTCGGCGATCAACT  733
+
+Query  961   GGAGGTGATCACCAACGGCAGGTACAAGAGCGTGATCCACCGGGTGGTGGCGCAGACCGA  1020
+              |||||||| ||||| || | ||||||||| |||   ||  | ||| |  | ||||| ||
+Sbjct  734   TGAGGTGATAACCAATGGGAAGTACAAGAGTGTGGAACATAGAGTGCTATCTCAGACAGA  793
+
+Query  1021  CGGC-AAC-AGG-ATGTCCATCGCGTCGTTCTACAACCCTGGCAGCGACGCCGTGATCTC  1077
+             |||  ||  | | ||||| ||||| || ||||| || || || |||||| | || || | 
+Sbjct  794   CGGAGAAGGAAGAATGTCGATCGCATCATTCTATAATCCGGGAAGCGACTCTGTTATTTT  853
+
+Query  1078  CCCTGCGCCGGCGCTG  1093
+              || ||||||| ||||
+Sbjct  854   TCCGGCGCCGGAGCTG  869
+
+
+>X66719.1 A.thaliana EAT1 mRNA for ethylene forming enzyme
+Length=1200
+
+ Score = 156 bits (84),  Expect = 6e-35
+ Identities = 343/469 (73%), Gaps = 13/469 (3%)
+ Strand=Plus/Plus
+
+Query  605   CCC-GACCTCGACGACGACTACAG-GCGCCTCATGAAGCGCTTCGCGGCGGAGCTGGAGA  662
+             ||| || ||||||||||| |||||  ||  | |||||   |||||| |   || | ||||
+Sbjct  361   CCCTGATCTCGACGACGATTACAGAACG-TTAATGAAAGACTTCGCCGGAAAGATAGAGA  419
+
+Query  663   CGCTGGCGGAGCGGCTACTGGACCTGCTCTGCGAGAACCTCGGCCTCGAGAAGGGCTACC  722
+              | || |||||  ||||||||| ||||| |||||||| |||||  | |||||||| ||  
+Sbjct  420   AGTTGTCGGAGGAGCTACTGGATCTGCTGTGCGAGAATCTCGGTTTAGAGAAGGGTTATT  479
+
+Query  723   TCACCAAGG--CCTTCCGTGGCCCCGCGGGCGCACCCACCTTCGGCACCAAGGTCAGCAG  780
+             | |  ||||    || || ||   ||     | ||| || || || ||||| ||||||| 
+Sbjct  480   TAAAAAAGGTGTTTTACG-GG--TCG-AAAAG-ACCGACTTTTGGAACCAAAGTCAGCAA  534
+
+Query  781   CTACCCGCCGTGCCCGCGCCCCGACCTCGTCGAGGGCCTCCGCGCCCACACCGACGCCGG  840
+              || || || || ||    || ||||| ||| |||| ||||| |||||||||||||||||
+Sbjct  535   TTATCCACCTTGTCCTAATCCGGACCTAGTCAAGGGTCTCCGAGCCCACACCGACGCCGG  594
+
+Query  841   CGGCATCATCCTGCTCTTCCAGGACGACCGCGTCGGTGGCCTCCAGCTGCTCAAGGACGG  900
+             |||||||||||| |||||||| ||||||   ||| |||| || ||||| || || |||||
+Sbjct  595   CGGCATCATCCTCCTCTTCCAAGACGACAAAGTCAGTGGACTTCAGCTTCTTAAAGACGG  654
+
+Query  901   CGAGTGGGTGGACGTGCCGCCCATGCGCCACTCCATCGTCGTCAACCTCGGCGACCAGCT  960
+             ||||||||| || || || ||  |    || || |||||||| || |||||||| || ||
+Sbjct  655   CGAGTGGGTCGATGTTCCTCCGGTTAAGCATTCAATCGTCGTTAATCTCGGCGATCAACT  714
+
+Query  961   GGAGGTGATCACCAACGGCAGGTACAAGAGCGTGATCCACCGGGTGGTGGCGCAGACCGA  1020
+              |||||||| ||||| || | ||||||||| |||   ||  | ||| |  | ||||| ||
+Sbjct  715   TGAGGTGATAACCAATGGGAAGTACAAGAGTGTGGAACATAGAGTGCTATCTCAGACAGA  774
+
+Query  1021  CGGC-AAC-AGG-ATGTCCATCGCGTCGTTCTACAACCCTGGCAGCGAC  1066
+             |||  ||  | | ||||| ||||| || ||||| || || || ||||||
+Sbjct  775   CGGAGAAGGAAGAATGTCGATCGCATCATTCTATAATCCGGGAAGCGAC  823
+
+
+>BX817035.1 Arabidopsis thaliana Full-length cDNA Complete sequence from 
+clone GSLTPGH81ZH08 of Hormone Treated Callus of strain col-0 
+of Arabidopsis thaliana (thale cress)
+Length=1301
+
+ Score = 154 bits (83),  Expect = 2e-34
+ Identities = 257/343 (75%), Gaps = 3/343 (1%)
+ Strand=Plus/Plus
+
+Query  754   ACCCACCTTCGGCACCAAGGTCAGCAGCTACCCGCCGTGCCCGCGCCCCGACCTCGTCGA  813
+             ||| || || || ||||| |||||||  || || || || ||    || ||||| ||| |
+Sbjct  555   ACCGACTTTTGGAACCAAAGTCAGCAATTATCCACCTTGTCCTAATCCGGACCTAGTCAA  614
+
+Query  814   GGGCCTCCGCGCCCACACCGACGCCGGCGGCATCATCCTGCTCTTCCAGGACGACCGCGT  873
+             ||| ||||| ||||||||||||||||||||||||||||| |||||||| ||||||   ||
+Sbjct  615   GGGTCTCCGAGCCCACACCGACGCCGGCGGCATCATCCTCCTCTTCCAAGACGACAAAGT  674
+
+Query  874   CGGTGGCCTCCAGCTGCTCAAGGACGGCGAGTGGGTGGACGTGCCGCCCATGCGCCACTC  933
+             | |||| || ||||| || || |||||||||||||| || || || ||  |    || ||
+Sbjct  675   CAGTGGACTTCAGCTTCTTAAAGACGGCGAGTGGGTCGATGTTCCTCCGGTTAAGCATTC  734
+
+Query  934   CATCGTCGTCAACCTCGGCGACCAGCTGGAGGTGATCACCAACGGCAGGTACAAGAGCGT  993
+              |||||||| || |||||||| || || |||||||| ||||| || | |||||||||  |
+Sbjct  735   AATCGTCGTTAATCTCGGCGATCAACTTGAGGTGATAACCAATGGGAAGTACAAGAGTAT  794
+
+Query  994   GATCCACCGGGTGGTGGCGCAGACCGACGGC-AAC-AGG-ATGTCCATCGCGTCGTTCTA  1050
+             |   ||  | ||| |  | ||||| |||||  ||  | | ||||| ||||| || |||||
+Sbjct  795   GGAACATAGAGTGCTATCTCAGACAGACGGAGAAGGAAGAATGTCGATCGCATCATTCTA  854
+
+Query  1051  CAACCCTGGCAGCGACGCCGTGATCTCCCCTGCGCCGGCGCTG  1093
+              || || || |||||| | || || |  || ||||||| ||||
+Sbjct  855   TAATCCGGGAAGCGACTCTGTTATTTTTCCGGCGCCGGAGCTG  897
+
+
+>CP002684.1 Arabidopsis thaliana chromosome 1 sequence
+Length=30427671
+
+ Features in this part of subject sequence:
+   ethylene-forming enzyme
+
+ Score = 128 bits (69),  Expect = 1e-26
+ Identities = 165/213 (77%), Gaps = 0/213 (0%)
+ Strand=Plus/Minus
+
+Query  754      ACCCACCTTCGGCACCAAGGTCAGCAGCTACCCGCCGTGCCCGCGCCCCGACCTCGTCGA  813
+                ||| || || || ||||| |||||||  || || || || ||    || ||||| ||| |
+Sbjct  1432017  ACCGACTTTTGGAACCAAAGTCAGCAATTATCCACCTTGTCCTAATCCGGACCTAGTCAA  1431958
+
+Query  814      GGGCCTCCGCGCCCACACCGACGCCGGCGGCATCATCCTGCTCTTCCAGGACGACCGCGT  873
+                ||| ||||| ||||||||||||||||||||||||||||| |||||||| ||||||   ||
+Sbjct  1431957  GGGTCTCCGAGCCCACACCGACGCCGGCGGCATCATCCTCCTCTTCCAAGACGACAAAGT  1431898
+
+Query  874      CGGTGGCCTCCAGCTGCTCAAGGACGGCGAGTGGGTGGACGTGCCGCCCATGCGCCACTC  933
+                | |||| || ||||| || || |||||||||||||| || || || ||  |    || ||
+Sbjct  1431897  CAGTGGACTTCAGCTTCTTAAAGACGGCGAGTGGGTCGATGTTCCTCCGGTTAAGCATTC  1431838
+
+Query  934      CATCGTCGTCAACCTCGGCGACCAGCTGGAGGT  966
+                 |||||||| || |||||||| || || |||||
+Sbjct  1431837  AATCGTCGTTAATCTCGGCGATCAACTTGAGGT  1431805
+
+
+>AC005322.2 Arabidopsis thaliana chromosome 1 BAC T7A14 sequence, complete 
+sequence
+Length=54157
+
+ Score = 128 bits (69),  Expect = 1e-26
+ Identities = 165/213 (77%), Gaps = 0/213 (0%)
+ Strand=Plus/Plus
+
+Query  754    ACCCACCTTCGGCACCAAGGTCAGCAGCTACCCGCCGTGCCCGCGCCCCGACCTCGTCGA  813
+              ||| || || || ||||| |||||||  || || || || ||    || ||||| ||| |
+Sbjct  44535  ACCGACTTTTGGAACCAAAGTCAGCAATTATCCACCTTGTCCTAATCCGGACCTAGTCAA  44594
+
+Query  814    GGGCCTCCGCGCCCACACCGACGCCGGCGGCATCATCCTGCTCTTCCAGGACGACCGCGT  873
+              ||| ||||| ||||||||||||||||||||||||||||| |||||||| ||||||   ||
+Sbjct  44595  GGGTCTCCGAGCCCACACCGACGCCGGCGGCATCATCCTCCTCTTCCAAGACGACAAAGT  44654
+
+Query  874    CGGTGGCCTCCAGCTGCTCAAGGACGGCGAGTGGGTGGACGTGCCGCCCATGCGCCACTC  933
+              | |||| || ||||| || || |||||||||||||| || || || ||  |    || ||
+Sbjct  44655  CAGTGGACTTCAGCTTCTTAAAGACGGCGAGTGGGTCGATGTTCCTCCGGTTAAGCATTC  44714
+
+Query  934    CATCGTCGTCAACCTCGGCGACCAGCTGGAGGT  966
+               |||||||| || |||||||| || || |||||
+Sbjct  44715  AATCGTCGTTAATCTCGGCGATCAACTTGAGGT  44747
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Nov 27, 2017  6:32 PM
+  Number of letters in database: 500,131,852
+  Number of sequences in database:  219,057
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 219057
+Number of Hits to DB: 119733
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 0
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of database: 500131852
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+
+
+
+

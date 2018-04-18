@@ -1,0 +1,10 @@
+Gene Descriptor	Description	GR-REV-E.txt
+GO:0003700	sequence-specific DNA binding transcription factor activity	-4.056668708961507
+GO:0006098	pentose-phosphate shunt	-5.467545381522457
+GO:0006355	"regulation of transcription, DNA-templated"	-3.6387480982319165
+GO:0009535	chloroplast thylakoid membrane	-4.483911297941977
+GO:0009543	chloroplast thylakoid lumen	-3.337025735632369
+GO:0009733	response to auxin	-3.2867376522791774
+GO:0009873	ethylene-activated signaling pathway	-3.6740324814738075
+GO:0010598	NAD(P)H dehydrogenase complex (plastoquinone)	-6.8693667507008405
+GO:0034976	response to endoplasmic reticulum stress	-3.545857032731109

@@ -1,0 +1,97 @@
+--
+-- insert all the samples for the GR-TINY experiment
+--
+
+SET search_path TO grtiny;
+
+CREATE TABLE samples () INHERITS (public.samples);
+
+-- label         | character varying | not null
+-- num           | integer           | not null
+-- condition     | character varying | not null
+-- control       | boolean           | not null default false
+-- time          | integer           | 
+-- comment       | character varying | 
+-- replicate     | integer           |
+-- internalscale | double precision  | not null default 1.0
+
+-- Ot7911	Ot7912	Ot7913	Ot7914	Ot7915	Ot7916	Ot7917	Ot7918	Ot7919
+-- Ot7923	Ot7924	Ot7925	Ot7926	Ot7927	Ot7928	Ot7929	Ot7930	Ot7931
+-- Ot7958	Ot7959	Ot7960	Ot7961	Ot7962	Ot7963	Ot7964	Ot7965	Ot7966
+-- Ot7947	Ot7948	Ot7949	Ot7950	Ot7951	Ot7952	Ot7953	Ot7954
+-- Ot7935	Ot7936	Ot7937	Ot7938	Ot7939	Ot7940	Ot7941	Ot7942	Ot7943
+-- OtB5765	OtB5766	OtB5767	OtB5768	OtB5769	OtB5770	OtB5771	OtB5772	OtB5773
+
+-- DESeq2 normalization across all samples
+-- 1.391805	0.6838685	1.374266	1.299851	0.7093234	0.7350883	0.7468484	1.452738	1.156374
+-- 1.47778      0.7071401	0.6587321	1.094866	0.9222718	1.005447	1.152959	1.381778	0.9022944
+-- 0.6662161	1.141896	1.061677	1.138857	1.204648	0.8181801	0.7176144	0.7822886	0.6736112
+-- 0.6241912	0.920563	1.470833	0.8695791	0.7795004	0.5836088	0.7202148	0.594667
+-- 1.232421	0.6473896	1.034728	0.9338626	0.6416306	1.077352	0.9470729	1.363131	1.263094
+-- 1.419686	1.59574         1.510045	1.416494	1.297204	1.42065         1.454203	1.357542	1.469681
+
+-- Col-0-WT  1-9  Ot7911 Ot7912 Ot7913  Ot7914 Ot7915 Ot7916  Ot7917 Ot7918 Ot7919
+INSERT INTO samples VALUES ('Ot7911', 1, 'Col-0-WT', true, 0, NULL, 1, 1.391805);
+INSERT INTO samples VALUES ('Ot7912', 2, 'Col-0-WT', true, 0, NULL, 2, 0.6838685);
+INSERT INTO samples VALUES ('Ot7913', 3, 'Col-0-WT', true, 0, NULL, 3, 1.374266);
+INSERT INTO samples VALUES ('Ot7914', 4, 'Col-0-WT', true, 30, NULL, 1, 1.299851);
+INSERT INTO samples VALUES ('Ot7915', 5, 'Col-0-WT', true, 30, NULL, 2, 0.7093234);
+INSERT INTO samples VALUES ('Ot7916', 6, 'Col-0-WT', true, 30, NULL, 3, 0.7350883);
+INSERT INTO samples VALUES ('Ot7917', 7, 'Col-0-WT', true, 60, NULL, 1, 0.7468484);
+INSERT INTO samples VALUES ('Ot7918', 8, 'Col-0-WT', true, 60, NULL, 2, 1.452738);
+INSERT INTO samples VALUES ('Ot7919', 9, 'Col-0-WT', true, 60, NULL, 3, 1.156374);
+
+-- GR-AS2  10-18  Ot7923 Ot7924 Ot7925  Ot7926 Ot7927 Ot7928  Ot7929 Ot7930 Ot7931
+INSERT INTO samples VALUES ('Ot7923', 10, 'GR-AS2', false, 0, NULL, 1, 1.47778);
+INSERT INTO samples VALUES ('Ot7924', 11, 'GR-AS2', false, 0, NULL, 2, 0.7071401);
+INSERT INTO samples VALUES ('Ot7925', 12, 'GR-AS2', false, 0, NULL, 3, 0.6587321);
+INSERT INTO samples VALUES ('Ot7926', 13, 'GR-AS2', false, 30, NULL, 1, 1.094866);
+INSERT INTO samples VALUES ('Ot7927', 14, 'GR-AS2', false, 30, NULL, 2, 0.9222718);
+INSERT INTO samples VALUES ('Ot7928', 15, 'GR-AS2', false, 30, NULL, 3, 1.005447);
+INSERT INTO samples VALUES ('Ot7929', 16, 'GR-AS2', false, 60, NULL, 1, 1.152959);
+INSERT INTO samples VALUES ('Ot7930', 17, 'GR-AS2', false, 60, NULL, 2, 1.381778);
+INSERT INTO samples VALUES ('Ot7931', 18, 'GR-AS2', false, 60, NULL, 3, 0.9022944);
+
+-- GR-KAN  19-27  Ot7958 Ot7959 Ot7960  Ot7961 Ot7962 Ot7963  Ot7964 Ot7965 Ot7966
+INSERT INTO samples VALUES ('Ot7958', 19, 'GR-KAN', false, 0, NULL, 1, 0.6662161);
+INSERT INTO samples VALUES ('Ot7959', 20, 'GR-KAN', false, 0, NULL, 2, 1.141896);
+INSERT INTO samples VALUES ('Ot7960', 21, 'GR-KAN', false, 0, NULL, 3, 1.061677);
+INSERT INTO samples VALUES ('Ot7961', 22, 'GR-KAN', false, 30, NULL, 1, 1.138857);
+INSERT INTO samples VALUES ('Ot7962', 23, 'GR-KAN', false, 30, NULL, 2, 1.204648);
+INSERT INTO samples VALUES ('Ot7963', 24, 'GR-KAN', false, 30, NULL, 3, 0.8181801);
+INSERT INTO samples VALUES ('Ot7964', 25, 'GR-KAN', false, 60, NULL, 1, 0.7176144);
+INSERT INTO samples VALUES ('Ot7965', 26, 'GR-KAN', false, 60, NULL, 2, 0.7822886);
+INSERT INTO samples VALUES ('Ot7966', 27, 'GR-KAN', false, 60, NULL, 3, 0.6736112);
+
+-- GR-REV  28-35  Ot7947 Ot7948 Ot7949  Ot7950 Ot7951         Ot7952 Ot7953 Ot7954
+INSERT INTO samples VALUES ('Ot7947', 28, 'GR-REV', false, 0, NULL, 1, 0.6241912);
+INSERT INTO samples VALUES ('Ot7948', 29, 'GR-REV', false, 0, NULL, 2, 0.920563);
+INSERT INTO samples VALUES ('Ot7949', 30, 'GR-REV', false, 0, NULL, 3, 1.470833);
+INSERT INTO samples VALUES ('Ot7950', 31, 'GR-REV', false, 30, NULL, 1, 0.8695791);
+INSERT INTO samples VALUES ('Ot7951', 32, 'GR-REV', false, 30, NULL, 2, 0.7795004);
+INSERT INTO samples VALUES ('Ot7952', 33, 'GR-REV', false, 60, NULL, 1, 0.5836088);
+INSERT INTO samples VALUES ('Ot7953', 34, 'GR-REV', false, 60, NULL, 2, 0.7202148);
+INSERT INTO samples VALUES ('Ot7954', 35, 'GR-REV', false, 60, NULL, 3, 0.594667);
+
+-- GR-STM  36-44  Ot7935 Ot7936 Ot7937  Ot7938 Ot7939 Ot7940  Ot7941 Ot7942 Ot7943
+INSERT INTO samples VALUES ('Ot7935', 36, 'GR-STM', false, 0, NULL, 1, 1.232421);
+INSERT INTO samples VALUES ('Ot7936', 37, 'GR-STM', false, 0, NULL, 2, 0.6473896);
+INSERT INTO samples VALUES ('Ot7937', 38, 'GR-STM', false, 0, NULL, 3, 1.034728);
+INSERT INTO samples VALUES ('Ot7938', 39, 'GR-STM', false, 30, NULL, 1, 0.9338626);
+INSERT INTO samples VALUES ('Ot7939', 40, 'GR-STM', false, 30, NULL, 2, 0.6416306);
+INSERT INTO samples VALUES ('Ot7940', 41, 'GR-STM', false, 30, NULL, 3, 1.077352);
+INSERT INTO samples VALUES ('Ot7941', 42, 'GR-STM', false, 60, NULL, 1, 0.9470729);
+INSERT INTO samples VALUES ('Ot7942', 43, 'GR-STM', false, 60, NULL, 2, 1.363131);
+INSERT INTO samples VALUES ('Ot7943', 44, 'GR-STM', false, 60, NULL, 3, 1.263094);
+
+-- GR-TINY  45-53  OtB5765 OtB5766 OtB5767  OtB5768 OtB5769 OtB5770  OtB5771  OtB5772  OtB5773
+INSERT INTO samples VALUES ('OtB5765', 45, 'GR-TINY', false, 0, 'Sample GTN1-01', 1, 1.419686);
+INSERT INTO samples VALUES ('OtB5766', 46, 'GR-TINY', false, 0, 'Sample GTN1-02', 2, 1.59574);
+INSERT INTO samples VALUES ('OtB5767', 47, 'GR-TINY', false, 0, 'Sample GTN1-04', 3, 1.510045);
+INSERT INTO samples VALUES ('OtB5768', 48, 'GR-TINY', false, 30, 'Sample GTN1-30-1', 1, 1.416494);
+INSERT INTO samples VALUES ('OtB5769', 49, 'GR-TINY', false, 30, 'Sample GTN1-30-4', 2, 1.297204);
+INSERT INTO samples VALUES ('OtB5770', 50, 'GR-TINY', false, 30, 'Sample GTN1-30-5', 3, 1.42065);
+INSERT INTO samples VALUES ('OtB5771', 51, 'GR-TINY', false, 60, 'Sample GTN1-60-2', 1, 1.454203);
+INSERT INTO samples VALUES ('OtB5772', 52, 'GR-TINY', false, 60, 'Sample GTN1-60-4', 2, 1.357542);
+INSERT INTO samples VALUES ('OtB5773', 53, 'GR-TINY', false, 60, 'Sample GTN1-60-5', 3, 1.469681);
+

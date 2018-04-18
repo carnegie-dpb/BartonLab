@@ -1,0 +1,24 @@
+"regulation of transcription, DNA-templated"	Circadian-clock-binding-motif	-6.704074281072248
+"regulation of transcription, DNA-templated"	General-ARID-Binding-motif	-4.329938014846997
+plasma membrane	AT1G04880-Binding-motif	-3.400525381639163
+plasma membrane	AT3G21890-binding-motif	-3.6905555645908215
+plasma membrane	AT3G61150-binding-motif	-3.0682608233941253
+lateral root development	AT3G27010-binding-motif	-3.3402702834069586
+oligopeptide transport	At5g50670-binding-motif	-3.2135393972314
+nucleus	At2g27300-binding-motif	-3.041831036600716
+nucleus	AT3G49930-binding-motif	-3.130212028242793
+nucleus	Circadian-clock-binding-motif	-5.379835830548975
+nucleus	General-Homeobox-binding-motif	-4.792090068369134
+sequence-specific DNA binding transcription factor activity	Circadian-clock-binding-motif	-4.710021805502469
+sequence-specific DNA binding transcription factor activity	General-ARID-Binding-motif	-4.451747255870223
+protein binding	At1g52880-binding-motif	-3.7484303861344963
+protein binding	At3g15500-binding-motif	-3.903181612101427
+AT2G46680	General-Homeobox-binding-motif
+AT5G60690	General-Homeobox-binding-motif
+AT5G15150	General-Homeobox-binding-motif
+AT5G06710	General-Homeobox-binding-motif
+AT4G40060	General-Homeobox-binding-motif
+AT5G25220	General-Homeobox-binding-motif
+AT5G53980	General-Homeobox-binding-motif
+AT3G01470	General-Homeobox-binding-motif
+AT2G22430	General-Homeobox-binding-motif

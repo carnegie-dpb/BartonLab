@@ -1,0 +1,3 @@
+leaf shaping	GO
+AT1G47870-binding-motif	Motif
+adaxial/abaxial axis specification	GO

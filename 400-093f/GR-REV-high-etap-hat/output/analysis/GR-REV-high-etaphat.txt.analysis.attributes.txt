@@ -1,0 +1,6 @@
+GR-REV-high-etaphat	pattern
+nucleus	GO
+sequence-specific DNA binding transcription factor activity	GO
+"negative regulation of transcription, DNA-templated"	GO
+leaf shaping	GO
+adaxial/abaxial axis specification	GO

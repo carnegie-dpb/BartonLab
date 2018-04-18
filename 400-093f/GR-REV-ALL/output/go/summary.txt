@@ -1,0 +1,37 @@
+Gene Descriptor	Description	GR-REV-ALL.txt
+GO:0000303	response to superoxide	-3.6346070139685445
+GO:0003677	DNA binding	-7.096742136455168
+GO:0003700	sequence-specific DNA binding transcription factor activity	-16.94354229283628
+GO:0004197	cysteine-type endopeptidase activity	-3.066107624977537
+GO:0004805	trehalose-phosphatase activity	-3.1784789112263563
+GO:0005515	protein binding	-4.718582814276705
+GO:0005634	nucleus	-15.759670348424992
+GO:0005886	plasma membrane	-4.352972328651394
+GO:0006098	pentose-phosphate shunt	-5.583817534721966
+GO:0006355	"regulation of transcription, DNA-templated"	-13.737338949129573
+GO:0006612	protein targeting to membrane	-7.747821502180098
+GO:0006857	oligopeptide transport	-4.417321778597282
+GO:0007165	signal transduction	-3.4440268261312594
+GO:0007623	circadian rhythm	-4.43412924144777
+GO:0008270	zinc ion binding	-4.578463151983893
+GO:0009414	response to water deprivation	-3.3388608866922476
+GO:0009416	response to light stimulus	-4.0053266059427095
+GO:0009617	response to bacterium	-3.4930446390309804
+GO:0009657	plastid organization	-3.27698325270466
+GO:0009733	response to auxin	-7.66559255167287
+GO:0009737	response to abscisic acid	-4.913232477551202
+GO:0009751	response to salicylic acid	-3.8237243622969523
+GO:0009773	photosynthetic electron transport in photosystem I	-3.350958292244191
+GO:0009787	regulation of abscisic acid-activated signaling pathway	-3.6560396978877647
+GO:0009867	jasmonic acid mediated signaling pathway	-3.589000414908319
+GO:0009873	ethylene-activated signaling pathway	-4.338473871651777
+GO:0009963	positive regulation of flavonoid biosynthetic process	-8.301189707278002
+GO:0009965	leaf morphogenesis	-3.1739887528662796
+GO:0010075	regulation of meristem growth	-3.997681967032856
+GO:0010358	leaf shaping	-3.137125955915303
+GO:0010363	regulation of plant-type hypersensitive response	-8.22846940352352
+GO:0010598	NAD(P)H dehydrogenase complex (plastoquinone)	-5.381697571995672
+GO:0015995	chlorophyll biosynthetic process	-3.6061784550902503
+GO:0030154	cell differentiation	-5.614951786812485
+GO:0043565	sequence-specific DNA binding	-3.854516754349137
+GO:1902448	positive regulation of shade avoidance	-3.08681887039919

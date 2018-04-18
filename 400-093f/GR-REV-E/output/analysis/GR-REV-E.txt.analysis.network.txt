@@ -1,0 +1,11 @@
+GR-REV-E	AT2G24765-Binding-motif	-3.8684401393584897
+GR-REV-E	AT2G48100-binding-motif	-3.105820887117064
+GR-REV-E	sequence-specific DNA binding transcription factor activity	-4.056668708961507
+GR-REV-E	pentose-phosphate shunt	-5.467545381522457
+GR-REV-E	"regulation of transcription, DNA-templated"	-3.6387480982319165
+GR-REV-E	chloroplast thylakoid membrane	-4.483911297941977
+GR-REV-E	chloroplast thylakoid lumen	-3.337025735632369
+GR-REV-E	response to auxin	-3.2867376522791774
+GR-REV-E	ethylene-activated signaling pathway	-3.6740324814738075
+GR-REV-E	NAD(P)H dehydrogenase complex (plastoquinone)	-6.8693667507008405
+GR-REV-E	response to endoplasmic reticulum stress	-3.545857032731109

@@ -1,0 +1,22 @@
+{
+    "read_files": "( reads/index25_1_R1.fastq.gz, reads/index25_1_R2.fastq.gz )",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 0.9994871451896998,
+    "num_compatible_fragments": 15497411,
+    "num_assigned_fragments": 15505363,
+    "num_consistent_mappings": 22719140,
+    "num_inconsistent_mappings": 1250159,
+    "strand_mapping_bias": 0.49974109935499319,
+    "MSF": 0,
+    "OSF": 2459,
+    "ISF": 11365452,
+    "MSR": 0,
+    "OSR": 8495,
+    "ISR": 11353688,
+    "SF": 619320,
+    "SR": 618451,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
