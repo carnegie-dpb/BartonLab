@@ -1,0 +1,31 @@
+label	num	condition	control	time	comment	replicate	internalscale
+EV8h1	1	WT	t	8	empty vector line treated with 60 um STM for 8h prior to harvesting aerial tissue	1	1
+EV8h2	2	WT	t	8	empty vector line treated with 60 um STM for 8h prior to harvesting aerial tissue	2	1
+EV8h3	3	WT	t	8	empty vector line treated with 60 um STM for 8h prior to harvesting aerial tissue	3	1
+STMoe8h1	4	STM	f	8	STM overexpressor line treated with 60um DEX for 8h prior to harvesting aerial tissue	1	1
+STMoe8h2	5	STM	f	8	STM overexpressor line treated with 60um DEX for 8h prior to harvesting aerial tissue	2	1
+STMoe8h3	6	STM	f	8	STM overexpressor line treated with 60um DEX for 8h prior to harvesting aerial tissue	3	1
+EV24h1	7	WT	t	24	empty vector line treated with 60 um STM for 24h prior to harvesting aerial tissue	1	1
+EV24h2	8	WT	t	24	empty vector line treated with 60 um STM for 24h prior to harvesting aerial tissue	2	1
+EV24h3	9	WT	t	24	empty vector line treated with 60 um STM for 24h prior to harvesting aerial tissue	3	1
+STMoe24h1	10	STM	f	24	STM overexpressor line treated with 60um DEX for 24h prior to harvesting aerial tissue	1	1
+STMoe24h2	11	STM	f	24	STM overexpressor line treated with 60um DEX for 24h prior to harvesting aerial tissue	2	1
+STMoe24h3	12	STM	f	24	STM overexpressor line treated with 60um DEX for 24h prior to harvesting aerial tissue	3	1
+EV72h1	13	WT	t	72	empty vector line treated with 60 um STM for 72h prior to harvesting aerial tissue	1	1
+EV72h2	14	WT	t	72	empty vector line treated with 60 um STM for 72h prior to harvesting aerial tissue	2	1
+EV72h3	15	WT	t	72	empty vector line treated with 60 um STM for 72h prior to harvesting aerial tissue	3	1
+STMoe72h1	16	STM	f	72	STM overexpressor line treated with 60um DEX for 72h prior to harvesting aerial tissue	1	1
+STMoe72h2	17	STM	f	72	STM overexpressor line treated with 60um DEX for 72h prior to harvesting aerial tissue	2	1
+STMoe72h3	18	STM	f	72	STM overexpressor line treated with 60um DEX for 72h prior to harvesting aerial tissue	3	1
+STMRNAi72h1	19	KD	f	72	STMRNAi line treated with 60um DEX for 72h prior to harvesting aerial tissue	1	1
+STMRNAi72h2	20	KD	f	72	STMRNAi line treated with 60um DEX for 72h prior to harvesting aerial tissue	2	1
+STMRNAi72h3	21	KD	f	72	STMRNAi line treated with 60um DEX for 72h prior to harvesting aerial tissue	3	1
+EV9d1	22	WT	t	216	empty vector line treated with 60 um STM for 9 days prior to harvesting aerial tissue	1	1
+EV9d2	23	WT	t	216	empty vector line treated with 60 um STM for 9 days prior to harvesting aerial tissue	2	1
+EV9d3	24	WT	t	216	empty vector line treated with 60 um STM for 9 days prior to harvesting aerial tissue	3	1
+STMoe9d1	25	STM	f	216	STM overexpressor line treated with 60um DEX for 9 days prior to harvesting aerial tissue	1	1
+STMoe9d2	26	STM	f	216	STM overexpressor line treated with 60um DEX for 9 days prior to harvesting aerial tissue	2	1
+STMoe9d3	27	STM	f	216	STM overexpressor line treated with 60um DEX for 9 days prior to harvesting aerial tissue	3	1
+STMRNAi9d1	28	KD	f	216	STMRNAi line treated with 60um DEX for 9 days prior to harvesting aerial tissue	1	1
+STMRNAi9d2	29	KD	f	216	STMRNAi line treated with 60um DEX for 9 days prior to harvesting aerial tissue	2	1
+STMRNAi9d3	30	KD	f	216	STMRNAi line treated with 60um DEX for 9 days prior to harvesting aerial tissue	3	1
