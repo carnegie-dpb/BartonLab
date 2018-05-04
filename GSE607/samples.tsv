@@ -1,0 +1,12 @@
+label	num	condition	control	time	comment	replicate	internalscale
+Leaf_GC2	1	LEAF	f	0	Genotype: Columbia-0, wild-type. Expanding wild type leaves.  Replicate 1 of 3.	1	1
+Leaf_GH1	2	LEAF	f	0	Genotype: Columbia-0, wild-type. Expanding wild type leaves.  Replicate 2 of 3.	2	1
+Leaf_GH2	3	LEAF	f	0	Genotype: Columbia-0, wild-type. Expanding wild type leaves.  Replicate 3 of 3.	3	1
+STEM_GC7	4	STEM	f	0	Genotype: Columbia-0, wild-type; Treatment: Expanding wild type stems.  Replicate 1 of 4.	1	1
+STEM_GC8	5	STEM	f	0	Genotype: Columbia-0, wild-type; Treatment: Expanding wild type stems.  Replicate 2 of 4.	2	1
+STEM_GH7	6	STEM	f	0	Genotype: Columbia-0, wild-type; Treatment: Expanding wild type stems.  Replicate 3 of 4.	3	1
+STEM_GH8	7	STEM	f	0	Genotype: Columbia-0, wild-type; Treatment: Expanding wild type stems.  Replicate 4 of 4.	4	1
+FLOWER_GC5	8	FLOWER	f	0	Genotype: Columbia-0, wild-type; Treatment: wild type flowers.  Replicate 1 of 4.	1	1
+FLOWER_GC6	9	FLOWER	f	0	Genotype: Columbia-0, wild-type; Treatment: wild type flowers.  Replicate 2 of 4.	2	1
+FLOWER_GH5	10	FLOWER	f	0	Genotype: Columbia-0, wild-type; Treatment: wild type flowers.  Replicate 3 of 4.	3	1
+FLOWER_GH6	11	FLOWER	f	0	Genotype: Columbia-0, wild-type; Treatment: wild type flowers.  Replicate 4 of 4.	4	1
