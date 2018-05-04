@@ -1,2 +1,2 @@
 # BartonLab
-Analyzed data sets from RNA-seq experments plus downloaded data from other folks
+Downloaded GEO and SRA data with analysis routines for importing into bartontools database.
