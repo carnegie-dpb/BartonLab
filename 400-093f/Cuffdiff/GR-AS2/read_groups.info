@@ -1,0 +1,10 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+input-0.bam	GRAS201	0	2.47855e+07	1.94038e+07	1.9252	1
+input-2.bam	GRAS201	1	1.53853e+07	1.94038e+07	0.580867	1
+input-3.bam	GRAS201	2	1.58931e+07	1.94038e+07	0.559409	1
+input-7.bam	GRAS260	0	2.21988e+07	1.94038e+07	1.36129	1
+input-8.bam	GRAS260	1	2.41818e+07	1.94038e+07	1.75542	1
+input-1.bam	GRAS260	2	1.28349e+07	1.94038e+07	0.621318	1
+input-4.bam	GRAS230	0	1.97559e+07	1.94038e+07	1.15185	1
+input-5.bam	GRAS230	1	1.56046e+07	1.94038e+07	0.762629	1
+input-6.bam	GRAS230	2	2.34552e+07	1.94038e+07	1.26686	1

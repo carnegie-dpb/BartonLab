@@ -1,0 +1,5 @@
+sequence-specific DNA binding transcription factor activity	GO
+"regulation of transcription, DNA-templated"	GO
+At5g16820-binding-motif	Motif
+pentose-phosphate shunt	GO
+General-ARF-Binding-motif	Motif

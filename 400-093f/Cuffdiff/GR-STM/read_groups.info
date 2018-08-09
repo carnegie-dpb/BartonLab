@@ -1,0 +1,10 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+input-0.bam	GRSTM01	0	1.90087e+07	1.9383e+07	1.25068	1
+input-2.bam	GRSTM01	1	1.57535e+07	1.9383e+07	0.559387	1
+input-3.bam	GRSTM01	2	2.45963e+07	1.9383e+07	1.3578	1
+input-7.bam	GRSTM60	0	1.6332e+07	1.9383e+07	0.843231	1
+input-8.bam	GRSTM60	1	1.99521e+07	1.9383e+07	1.47026	1
+input-1.bam	GRSTM60	2	1.9087e+07	1.9383e+07	1.29433	1
+input-4.bam	GRSTM30	0	1.98367e+07	1.9383e+07	1.00456	1
+input-5.bam	GRSTM30	1	2.12194e+07	1.9383e+07	0.736846	1
+input-6.bam	GRSTM30	2	1.5474e+07	1.9383e+07	0.923975	1

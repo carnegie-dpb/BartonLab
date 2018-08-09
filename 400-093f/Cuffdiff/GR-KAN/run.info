@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 8 -L GRKAN01,GRKAN60,GRKAN30 -o output -b genome.fa -u --library-type fr-unstranded --library-norm-method geometric --dispersion-method pooled genes.gtf input-0.bam,input-2.bam,input-3.bam input-7.bam,input-8.bam,input-1.bam input-4.bam,input-5.bam,input-6.bam 
+version	2.1.1
+SVN_revision	4046M
+boost_version	104900

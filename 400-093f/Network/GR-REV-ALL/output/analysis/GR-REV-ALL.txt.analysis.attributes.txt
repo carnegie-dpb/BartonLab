@@ -1,0 +1,114 @@
+GR-REV-ALL	pattern
+AT1G04880-Binding-motif	Motif
+AT1G08320-binding-motif	Motif
+AT1G24260-binding-motif	Motif
+AT1G72050-binding-motif	Motif
+AT2G45660-binding-motif	Motif
+AT3G21890-binding-motif	Motif
+AT3G61150-binding-motif	Motif
+AT5G56930-binding-motif	Motif
+AT5G65310-binding-motif	Motif
+At1g69490-Binding-motif	Motif
+At1g74650-binding-motif	Motif
+At2g23290-binding-motif	Motif
+At3g15500-binding-motif	Motif
+At3g55370-binding-motif	Motif
+At4g01540-binding-motif	Motif
+Circadian-clock-binding-motif	Motif
+General-ABI-VP1-Binding-motif-1	Motif
+General-ARID-Binding-motif	Motif
+General-BBR-BPC-binding-motif	Motif
+General-C2C2-DOF-binding-motif	Motif
+General-CSD-binding-motif	Motif
+General-G2-GARP-binding-motif	Motif
+General-Homeobox-binding-motif	Motif
+General-MADS-box-2-binding-motif	Motif
+General-MYB-binding-motif	Motif
+General-YABBY-binding-motif	Motif
+General-bHLH-binding-motif	Motif
+ZF-HD-binding-motif	Motif
+chlorophyll biosynthetic process	GO
+regulation of plant-type hypersensitive response	GO
+ethylene-activated signaling pathway	GO
+sequence-specific DNA binding	GO
+response to salicylic acid	GO
+photosynthetic electron transport in photosystem I	GO
+response to light stimulus	GO
+plastid organization	GO
+response to water deprivation	GO
+response to auxin	GO
+oligopeptide transport	GO
+sequence-specific DNA binding transcription factor activity	GO
+leaf shaping	GO
+NAD(P)H dehydrogenase complex (plastoquinone)	GO
+regulation of meristem growth	GO
+zinc ion binding	GO
+pentose-phosphate shunt	GO
+signal transduction	GO
+cysteine-type endopeptidase activity	GO
+regulation of abscisic acid-activated signaling pathway	GO
+positive regulation of flavonoid biosynthetic process	GO
+"regulation of transcription, DNA-templated"	GO
+response to superoxide	GO
+circadian rhythm	GO
+protein targeting to membrane	GO
+jasmonic acid mediated signaling pathway	GO
+plasma membrane	GO
+leaf morphogenesis	GO
+positive regulation of shade avoidance	GO
+DNA binding	GO
+nucleus	GO
+response to bacterium	GO
+protein binding	GO
+response to abscisic acid	GO
+trehalose-phosphatase activity	GO
+cell differentiation	GO
+AT5G65310	Transcription Factor
+AT1G18330	Transcription Factor
+AT1G32640	Transcription Factor
+AT5G46690	Transcription Factor
+AT4G29100	Transcription Factor
+AT2G24260	Transcription Factor
+AT2G20180	Transcription Factor
+AT4G34530	Transcription Factor
+AT5G51780	Transcription Factor
+AT2G43140	Transcription Factor
+AT5G08130	Transcription Factor
+AT3G06590	Transcription Factor
+AT1G31050	Transcription Factor
+AT5G61270	Transcription Factor
+AT4G36930	Transcription Factor
+AT1G18400	Transcription Factor
+AT2G43010	Transcription Factor
+AT1G64620	Transcription Factor
+AT1G32240	Transcription Factor
+AT5G44190	Transcription Factor
+AT4G37180	Transcription Factor
+AT2G02060	Transcription Factor
+AT5G15150	Transcription Factor
+AT4G40060	Transcription Factor
+AT1G46480	Transcription Factor
+AT5G53980	Transcription Factor
+AT5G06710	Transcription Factor
+AT4G16780	Transcription Factor
+AT5G25220	Transcription Factor
+AT2G22430	Transcription Factor
+AT5G11270	Transcription Factor
+AT4G17460	Transcription Factor
+AT3G60390	Transcription Factor
+AT3G01470	Transcription Factor
+AT5G60690	Transcription Factor
+AT4G37790	Transcription Factor
+AT3G61890	Transcription Factor
+AT2G46680	Transcription Factor
+AT1G74430	Transcription Factor
+AT5G54230	Transcription Factor
+AT4G39160	Transcription Factor
+AT4G38620	Transcription Factor
+AT5G26660	Transcription Factor
+AT5G59780	Transcription Factor
+AT1G08810	Transcription Factor
+AT2G16720	Transcription Factor
+AT4G24660	Transcription Factor
+AT5G15210	Transcription Factor
+AT2G18350	Transcription Factor

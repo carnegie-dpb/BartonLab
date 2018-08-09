@@ -1,0 +1,5 @@
+GR-REV-high-etaphat	sequence-specific DNA binding transcription factor activity	-3.0094282911465378
+GR-REV-high-etaphat	nucleus	-3.5701546185159385
+GR-REV-high-etaphat	adaxial/abaxial axis specification	-4.422647133991633
+GR-REV-high-etaphat	leaf shaping	-4.277191821491138
+GR-REV-high-etaphat	"negative regulation of transcription, DNA-templated"	-5.250092641870888

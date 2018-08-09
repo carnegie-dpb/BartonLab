@@ -1,0 +1,3 @@
+sequence-specific DNA binding transcription factor activity	At5g16820-binding-motif	-3.295919680645596
+pentose-phosphate shunt	General-ARF-Binding-motif	-3.0287776471605246
+"regulation of transcription, DNA-templated"	At5g16820-binding-motif	-3.3252836208917835

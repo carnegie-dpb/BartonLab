@@ -1,0 +1,2 @@
+leaf shaping	AT1G47870-binding-motif	-3.4561070411250787
+adaxial/abaxial axis specification	AT1G47870-binding-motif	-3.4561070411250787

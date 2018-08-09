@@ -1,0 +1,10 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+input-0.bam	Col01	0	2.52979e+07	2.1199e+07	1.71188	1
+input-2.bam	Col01	1	2.28303e+07	2.1199e+07	0.762652	1
+input-3.bam	Col01	2	1.91265e+07	2.1199e+07	1.25016	1
+input-7.bam	Col60	0	1.77961e+07	2.1199e+07	0.676468	1
+input-8.bam	Col60	1	1.54593e+07	2.1199e+07	1.0784	1
+input-1.bam	Col60	2	1.8466e+07	2.1199e+07	1.03133	1
+input-4.bam	Col30	0	2.04863e+07	2.1199e+07	1.292	1
+input-5.bam	Col30	1	1.63554e+07	2.1199e+07	0.579824	1
+input-6.bam	Col30	2	3.21023e+07	2.1199e+07	1.1395	1

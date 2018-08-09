@@ -1,0 +1,148 @@
+GR-REV-ALL	AT1G04880-Binding-motif	-3.6036812308682866
+GR-REV-ALL	AT1G08320-binding-motif	-3.1452540860374656
+GR-REV-ALL	AT1G24260-binding-motif	-4.146219212980303
+GR-REV-ALL	At1g69490-Binding-motif	-3.085530284656002
+GR-REV-ALL	AT1G72050-binding-motif	-3.5563768032374705
+GR-REV-ALL	At1g74650-binding-motif	-3.5577803487298953
+GR-REV-ALL	At2g23290-binding-motif	-3.3272084029305047
+GR-REV-ALL	AT2G45660-binding-motif	-3.712974303208935
+GR-REV-ALL	At3g15500-binding-motif	-3.987801373681427
+GR-REV-ALL	AT3G21890-binding-motif	-4.634764597959966
+GR-REV-ALL	At3g55370-binding-motif	-5.660521273368955
+GR-REV-ALL	AT3G61150-binding-motif	-5.810677293019377
+GR-REV-ALL	At4g01540-binding-motif	-6.3861766494787995
+GR-REV-ALL	AT5G56930-binding-motif	-3.1598867586509676
+GR-REV-ALL	AT5G65310-binding-motif	-4.748931970115113
+GR-REV-ALL	Circadian-clock-binding-motif	-7.61844411671065
+GR-REV-ALL	General-ABI-VP1-Binding-motif-1	-3.1649074531197514
+GR-REV-ALL	General-ARID-Binding-motif	-6.419189406129179
+GR-REV-ALL	General-BBR-BPC-binding-motif	-3.268915979233613
+GR-REV-ALL	General-bHLH-binding-motif	-4.602831092203021
+GR-REV-ALL	General-C2C2-DOF-binding-motif	-6.328382013739948
+GR-REV-ALL	General-CSD-binding-motif	-3.654642165848451
+GR-REV-ALL	General-G2-GARP-binding-motif	-3.464144511092481
+GR-REV-ALL	General-Homeobox-binding-motif	-8.218589218200378
+GR-REV-ALL	General-MADS-box-2-binding-motif	-3.847008128421221
+GR-REV-ALL	General-MYB-binding-motif	-3.575153300483248
+GR-REV-ALL	General-YABBY-binding-motif	-3.078198881779763
+GR-REV-ALL	ZF-HD-binding-motif	-7.315861037180643
+GR-REV-ALL	response to superoxide	-3.6346070139685445
+GR-REV-ALL	DNA binding	-7.096742136455168
+GR-REV-ALL	sequence-specific DNA binding transcription factor activity	-16.94354229283628
+GR-REV-ALL	cysteine-type endopeptidase activity	-3.066107624977537
+GR-REV-ALL	trehalose-phosphatase activity	-3.1784789112263563
+GR-REV-ALL	protein binding	-4.718582814276705
+GR-REV-ALL	nucleus	-15.759670348424992
+GR-REV-ALL	plasma membrane	-4.352972328651394
+GR-REV-ALL	pentose-phosphate shunt	-5.583817534721966
+GR-REV-ALL	"regulation of transcription, DNA-templated"	-13.737338949129573
+GR-REV-ALL	protein targeting to membrane	-7.747821502180098
+GR-REV-ALL	oligopeptide transport	-4.417321778597282
+GR-REV-ALL	signal transduction	-3.4440268261312594
+GR-REV-ALL	circadian rhythm	-4.43412924144777
+GR-REV-ALL	zinc ion binding	-4.578463151983893
+GR-REV-ALL	response to water deprivation	-3.3388608866922476
+GR-REV-ALL	response to light stimulus	-4.0053266059427095
+GR-REV-ALL	response to bacterium	-3.4930446390309804
+GR-REV-ALL	plastid organization	-3.27698325270466
+GR-REV-ALL	response to auxin	-7.66559255167287
+GR-REV-ALL	response to abscisic acid	-4.913232477551202
+GR-REV-ALL	response to salicylic acid	-3.8237243622969523
+GR-REV-ALL	photosynthetic electron transport in photosystem I	-3.350958292244191
+GR-REV-ALL	regulation of abscisic acid-activated signaling pathway	-3.6560396978877647
+GR-REV-ALL	jasmonic acid mediated signaling pathway	-3.589000414908319
+GR-REV-ALL	ethylene-activated signaling pathway	-4.338473871651777
+GR-REV-ALL	positive regulation of flavonoid biosynthetic process	-8.301189707278002
+GR-REV-ALL	leaf morphogenesis	-3.1739887528662796
+GR-REV-ALL	regulation of meristem growth	-3.997681967032856
+GR-REV-ALL	leaf shaping	-3.137125955915303
+GR-REV-ALL	regulation of plant-type hypersensitive response	-8.22846940352352
+GR-REV-ALL	NAD(P)H dehydrogenase complex (plastoquinone)	-5.381697571995672
+GR-REV-ALL	chlorophyll biosynthetic process	-3.6061784550902503
+GR-REV-ALL	cell differentiation	-5.614951786812485
+GR-REV-ALL	sequence-specific DNA binding	-3.854516754349137
+GR-REV-ALL	positive regulation of shade avoidance	-3.08681887039919
+response to water deprivation	General-bHLH-binding-motif	-3.4017606197841115
+response to auxin	AT1G08320-binding-motif	-3.5305901697589572
+sequence-specific DNA binding transcription factor activity	General-ARID-Binding-motif	-7.796545734125611
+sequence-specific DNA binding transcription factor activity	General-bHLH-binding-motif	-3.2010543211666085
+sequence-specific DNA binding transcription factor activity	General-Homeobox-binding-motif	-5.262760865217199
+sequence-specific DNA binding transcription factor activity	ZF-HD-binding-motif	-3.626314621031767
+regulation of meristem growth	AT3G21890-binding-motif	-3.5993826481232234
+zinc ion binding	Circadian-clock-binding-motif	-5.049143624784469
+"regulation of transcription, DNA-templated"	Circadian-clock-binding-motif	-3.919326045628183
+"regulation of transcription, DNA-templated"	General-ARID-Binding-motif	-6.257963231101558
+"regulation of transcription, DNA-templated"	General-bHLH-binding-motif	-3.756309346273405
+"regulation of transcription, DNA-templated"	General-Homeobox-binding-motif	-5.046611237969498
+plasma membrane	AT1G04880-Binding-motif	-3.3441577992416156
+plasma membrane	AT3G21890-binding-motif	-3.803191958136082
+plasma membrane	AT3G61150-binding-motif	-4.748102306449363
+plasma membrane	At4g01540-binding-motif	-3.1432731855674323
+plasma membrane	AT5G65310-binding-motif	-3.331478060098883
+plasma membrane	Circadian-clock-binding-motif	-3.1986905122566656
+plasma membrane	General-C2C2-DOF-binding-motif	-3.744789615554067
+plasma membrane	ZF-HD-binding-motif	-4.41836378118013
+DNA binding	AT3G61150-binding-motif	-3.222949096157257
+DNA binding	General-ARID-Binding-motif	-4.669359643426739
+DNA binding	ZF-HD-binding-motif	-4.15079515827154
+nucleus	AT1G24260-binding-motif	-3.9729223930932305
+nucleus	At4g01540-binding-motif	-5.168649390414161
+nucleus	Circadian-clock-binding-motif	-3.40213609479392
+nucleus	General-ARID-Binding-motif	-4.803915639282933
+nucleus	General-bHLH-binding-motif	-4.100754081590921
+nucleus	General-Homeobox-binding-motif	-5.185610925883926
+nucleus	General-MYB-binding-motif	-3.226397874896152
+nucleus	ZF-HD-binding-motif	-3.98103324237911
+protein binding	At3g15500-binding-motif	-5.1525709760244665
+protein binding	General-bHLH-binding-motif	-3.049081902229211
+protein binding	General-Homeobox-binding-motif	-3.7614560005788733
+response to abscisic acid	General-bHLH-binding-motif	-4.6194721113717865
+AT5G65310	AT5G65310-binding-motif
+AT1G18330	Circadian-clock-binding-motif
+AT1G32640	General-bHLH-binding-motif
+AT5G46690	General-bHLH-binding-motif
+AT4G29100	General-bHLH-binding-motif
+AT2G24260	General-bHLH-binding-motif
+AT2G20180	General-bHLH-binding-motif
+AT4G34530	General-bHLH-binding-motif
+AT5G51780	General-bHLH-binding-motif
+AT2G43140	General-bHLH-binding-motif
+AT5G08130	General-bHLH-binding-motif
+AT3G06590	General-bHLH-binding-motif
+AT1G31050	General-bHLH-binding-motif
+AT5G61270	General-bHLH-binding-motif
+AT4G36930	General-bHLH-binding-motif
+AT1G18400	General-bHLH-binding-motif
+AT2G43010	General-bHLH-binding-motif
+AT1G64620	General-C2C2-DOF-binding-motif
+AT1G32240	General-G2-GARP-binding-motif
+AT5G44190	General-G2-GARP-binding-motif
+AT4G37180	General-G2-GARP-binding-motif
+AT2G02060	General-G2-GARP-binding-motif
+AT5G15150	General-Homeobox-binding-motif
+AT4G40060	General-Homeobox-binding-motif
+AT1G46480	General-Homeobox-binding-motif
+AT5G53980	General-Homeobox-binding-motif
+AT5G06710	General-Homeobox-binding-motif
+AT4G16780	General-Homeobox-binding-motif
+AT5G25220	General-Homeobox-binding-motif
+AT2G22430	General-Homeobox-binding-motif
+AT5G11270	General-Homeobox-binding-motif
+AT4G17460	General-Homeobox-binding-motif
+AT3G60390	General-Homeobox-binding-motif
+AT3G01470	General-Homeobox-binding-motif
+AT5G60690	General-Homeobox-binding-motif
+AT4G37790	General-Homeobox-binding-motif
+AT3G61890	General-Homeobox-binding-motif
+AT2G46680	General-Homeobox-binding-motif
+AT1G74430	General-MYB-binding-motif
+AT5G54230	General-MYB-binding-motif
+AT4G39160	General-MYB-binding-motif
+AT4G38620	General-MYB-binding-motif
+AT5G26660	General-MYB-binding-motif
+AT5G59780	General-MYB-binding-motif
+AT1G08810	General-MYB-binding-motif
+AT2G16720	General-MYB-binding-motif
+AT4G24660	ZF-HD-binding-motif
+AT5G15210	ZF-HD-binding-motif
+AT2G18350	ZF-HD-binding-motif
