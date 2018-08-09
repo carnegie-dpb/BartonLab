@@ -1,3 +1,0 @@
-Gene Descriptor	Description	GR-REV-E.txt
-WCACCA	AT2G48100-binding-motif	-3.105820887117064
-YYCCGACA	AT2G24765-Binding-motif	-3.8684401393584897

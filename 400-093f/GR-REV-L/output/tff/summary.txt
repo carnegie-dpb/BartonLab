@@ -1,2 +1,0 @@
-Gene Descriptor	Description	GR-REV-L.txt
-HOMEOBOX		-5.904061072241776

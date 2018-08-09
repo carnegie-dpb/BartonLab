@@ -1,3 +1,0 @@
-Gene Descriptor	Description	GR-REV-E.txt
-ERF		-3.0864544049244484
-HOMEOBOX		-6.781197789307284

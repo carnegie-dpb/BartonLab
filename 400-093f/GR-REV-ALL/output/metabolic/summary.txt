@@ -1,2 +1,0 @@
-Gene Descriptor	Description	GR-REV-ALL.txt
-TREHALOSE BIOSYNTHESIS I		-3.612650587615362

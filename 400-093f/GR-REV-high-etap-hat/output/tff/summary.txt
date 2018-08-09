@@ -1,3 +1,0 @@
-Gene Descriptor	Description	GR-REV-high-etaphat.txt
-HOMEOBOX		-3.5585170759826403
-OFP		-3.4221209634166634
